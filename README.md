@@ -9,6 +9,6 @@ In the first training, the convolutional layers of VGG19 is freezed (forcing the
 
 In the second training, the network is initialized with the weights obtained from the first training and further fine tuned using stochastic gradient descent optimizer
 
-In conclusion, the final model was able to predict that there is 0.997 probability that the plantation has an oilpalm and 0.0003 probability that the plantation is without without oilpalms
+In conclusion, the final model was able to predict that there is 0.997 probability that the plantation has an oilpalm and 0.0003 probability that the plantation is without oilpalms
 
 This predictions will enable Planet and Figure Eight to continue to work towards affordable, timely and scalable ways toaddress the expansion and management of oil palm throughout the world.
